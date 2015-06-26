@@ -33,6 +33,6 @@ public class AppTest extends TestCase {
 	}
 
 	public void testFail() {
-		assertFalse(true);
+		assertFalse(false);
 	}
 }
