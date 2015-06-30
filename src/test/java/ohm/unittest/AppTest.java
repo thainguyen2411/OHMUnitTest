@@ -35,4 +35,8 @@ public class AppTest extends TestCase {
 	public void testFail() {
 		assertFalse(false);
 	}
+
+	public void testABC() {
+		assertTrue(true);
+	}
 }
