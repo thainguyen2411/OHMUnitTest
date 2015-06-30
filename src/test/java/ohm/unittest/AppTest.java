@@ -39,4 +39,7 @@ public class AppTest extends TestCase {
 	public void testABC() {
 		assertTrue(true);
 	}
+	public void testABCD() {
+		assertTrue(true);
+	}
 }
